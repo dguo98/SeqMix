@@ -4,7 +4,7 @@ Despite their empirical success, neural networks still have difficulty capturing
 [[EMNLP 2020 Paper]](https://arxiv.org/abs/2011.09039)
 
 # Prerequisites
-This codebase is based on fairseq. Please follow fairseq set up instructions [here](https://drive.google.com/uc?export=download&id=0B_bZck-ksdkpM25jRUN2X2UxMm8)
+This is example codebase for NMT experiments, which is based on fairseq. Please follow fairseq set up instructions [here](https://drive.google.com/uc?export=download&id=0B_bZck-ksdkpM25jRUN2X2UxMm8)
 
 # Data Preprocessing
 First download the [preprocessed WMT'16 data](https://drive.google.com/uc?export=download&id=0B_bZck-ksdkpM25jRUN2X2UxMm8). <br />
